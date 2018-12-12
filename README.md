@@ -5,3 +5,5 @@ Uygulama içinde yer alan metni düzenleme veya karanlık modda görmeye olanak 
 butonuna basıldığında sonucu UserDefaults'a kaydediyor.
 
 Eğitim amacı ile yapılıp basit tutulmuştur.
+
+You can also check out preview Video
